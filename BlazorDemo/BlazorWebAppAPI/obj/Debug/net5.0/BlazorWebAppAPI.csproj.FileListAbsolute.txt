@@ -1,0 +1,270 @@
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.AssemblyInfo.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.exe
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.deps.json
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.runtimeconfig.json
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ref\BlazorWebAppAPI.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.pdb
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\staticwebassets\BlazorWebAppAPI.StaticWebAssets.Manifest.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\staticwebassets\BlazorWebAppAPI.StaticWebAssets.xml
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\scopedcss\bundle\BlazorWebAppAPI.styles.css
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.csproj.CopyComplete
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\ref\BlazorWebAppAPI.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.pdb
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.genruntimeconfig.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.csprojAssemblyReference.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\appsettings.json
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.exe
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.deps.json
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.runtimeconfig.json
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.runtimeconfig.dev.json
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ref\BlazorWebAppAPI.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\BlazorWebAppAPI.pdb
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Humanizer.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.csprojAssemblyReference.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.AssemblyInfoInputs.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.AssemblyInfo.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.csproj.CoreCompileInputs.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\staticwebassets\BlazorWebAppAPI.StaticWebAssets.Manifest.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\staticwebassets\BlazorWebAppAPI.StaticWebAssets.xml
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\scopedcss\bundle\BlazorWebAppAPI.styles.css
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.RazorTargetAssemblyInfo.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.csproj.CopyComplete
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\ref\BlazorWebAppAPI.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.pdb
+C:\BlazorDemoNewNew\BlazorDemo\BlazorWebAppAPI\obj\Debug\net5.0\BlazorWebAppAPI.genruntimeconfig.cache

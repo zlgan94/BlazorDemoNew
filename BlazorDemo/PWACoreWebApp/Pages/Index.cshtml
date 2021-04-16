@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!-- add to home screen (a2hs) -->
+<div id="a2hs-container" class="card bg-dark text-white row">
+    <div class="card-body">
+        <div class="row">
+            <div class="col align-self-center">
+                Get our free app.<br />  It won't take up space on your phone.
+            </div>
+            <div class="col text-right align-self-center">
+                <button id="a2hs-button" class="btn btn-secondary btn-small">install</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@section Scripts
+{
+<!--Handles the ADD TO HOME button's click event - to install the Service Worker -->
+    <script src="/js/addtohome.js"></script>
+<!--Register the Applicationjs Service Worker-->
+    <script src="/app-sw.js"></script>
+}

@@ -1,0 +1,124 @@
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorComponent.input.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Pages\Employees\EmployeesList.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Pages\Employees\EmployeesManage.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorComponent.output.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\appsettings.json
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.StaticWebAssets.xml
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.exe
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.deps.json
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.runtimeconfig.json
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\ref\BlazorSvrApp.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.pdb
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.Views.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.Views.pdb
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\BlazorSvrApp.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.TagHelpers.input.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.TagHelpers.output.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\Employees\EmployeesList.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\Employees\EmployeesManage.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\staticwebassets\BlazorSvrApp.StaticWebAssets.Manifest.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\staticwebassets\BlazorSvrApp.StaticWebAssets.xml
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\scopedcss\bundle\BlazorSvrApp.styles.css
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\scopedcss\projectbundle\BlazorSvrApp.bundle.scp.css
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.Views.pdb
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\ref\BlazorSvrApp.dll
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.pdb
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.csproj.CopyComplete
+C:\Users\admin\Desktop\Full Stack Developer Course\C# Fundamentals\Blazor\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.csprojAssemblyReference.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\appsettings.Development.json
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\appsettings.json
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.StaticWebAssets.xml
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.exe
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.deps.json
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.runtimeconfig.json
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.runtimeconfig.dev.json
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\ref\BlazorSvrApp.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.pdb
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.Views.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\bin\Debug\net5.0\BlazorSvrApp.Views.pdb
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.csprojAssemblyReference.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.AssemblyInfoInputs.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.AssemblyInfo.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.csproj.CoreCompileInputs.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.MvcApplicationPartsAssemblyInfo.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorComponent.input.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Pages\Employees\EmployeesList.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Pages\Employees\EmployeesManage.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorComponent.output.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\RazorDeclaration\BlazorSvrApp.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.TagHelpers.input.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.TagHelpers.output.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorCoreGenerate.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\Employees\EmployeesList.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\Employees\EmployeesManage.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorAssemblyInfo.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorAssemblyInfo.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\staticwebassets\BlazorSvrApp.StaticWebAssets.Manifest.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\staticwebassets\BlazorSvrApp.StaticWebAssets.xml
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\scopedcss\bundle\BlazorSvrApp.styles.css
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\scopedcss\projectbundle\BlazorSvrApp.bundle.scp.css
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorTargetAssemblyInfo.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.RazorTargetAssemblyInfo.cs
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.Views.pdb
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\ref\BlazorSvrApp.dll
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.pdb
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.genruntimeconfig.cache
+C:\BlazorDemoNewNew\BlazorDemo\BlazorSvrApp\obj\Debug\net5.0\BlazorSvrApp.csproj.CopyComplete

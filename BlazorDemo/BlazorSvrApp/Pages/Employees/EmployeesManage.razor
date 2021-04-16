@@ -1,0 +1,194 @@
+﻿@page "/Employees/Manage"
+
+@using BlazorSvrApp.ViewModels;
+@using System.Text;
+@using System.Text.Json;
+@using System.Net; @*For Http *@
+@using Microsoft.Extensions.Logging;
+@using Microsoft.AspNetCore.WebUtilities;            @* for QueryHelpers to retrieve QueryString values *@
+
+@inject NavigationManager navigationManager
+@* Works as dependency injection, without the need of constructor *@
+@inject ILogger<EmployeesManage> _logger
+
+<h1>Manage Employee Information</h1>
+
+
+<p>ID = @pID</p>
+<p>Mode = @pMode</p>
+
+<EditForm Model="employeeViewModel" OnValidSubmit="@onValidSubmit_Handler">
+
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group row">
+        <label for="txtName" class="col-form-label col-3 text-right">Employee Name</label>
+        <InputText id="txtName" autocomplete="off" class="form-control col-6"
+                   placeholder="enter name"
+                   @bind-Value="employeeViewModel.EmployeeName"
+                   @bind-disabled="isDisabled" />
+        <ValidationMessage class="text-danger" For="() => employeeViewModel.EmployeeName" />
+    </div>
+
+    <div class="form-group row">
+        <label for="txtDOB" class="col-form-label col-3 text-right">Date of Birth</label>
+        <InputDate id="txtDOB" autocomplete="off" class="form-control col-2"
+                   placeholder="select date of birth"
+                   @bind-Value="employeeViewModel.DateOfBirth"
+                   @bind-disabled="isDisabled" />
+        <ValidationMessage class="text-danger" For="() => employeeViewModel.DateOfBirth" />
+    </div>
+
+    <div class="form-group row">
+        <label for="txtSalary" class="col-form-label col-3 text-right">Salary</label>
+        <InputNumber id="txtSalary" autocomplete="off" class="form-control col-3"
+                     placeholder="enter salary"
+                     @bind-Value="employeeViewModel.Salary"
+                     @bind-disabled="isDisabled" />
+        <div><ValidationMessage class="text-danger" For="() => employeeViewModel.Salary" /></div>
+    </div>
+
+    <div class="form-group row">
+        <label for="txtSalary" class="col-form-label col-3 text-right">Is Enabled?</label>
+        <InputCheckbox id="chkIsEnabled"
+                       @bind-Value="employeeViewModel.IsEnabled"
+                       @bind-disabled="isDisabled" />
+        <ValidationMessage class="text-danger" For="() => employeeViewModel.IsEnabled" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Submit
+    </button>
+    <button type="button" class="btn btn-primary" @onclick="onCancel_Handler">
+        Cancel
+    </button>
+
+</EditForm>
+
+
+
+@code {
+
+    [Parameter]
+    public MyApplicationEditModes pMode { get; set; } = MyApplicationEditModes.Unknown;
+
+    [Parameter]
+    public int pID { get; set; }
+
+    private EmployeeViewModel employeeViewModel = new EmployeeViewModel();
+    private HttpClient httpClient = new HttpClient();
+    private bool isDisabled = false;
+
+
+    //  https://localhost:44393/Employees/Manage?pMode=New
+    //  https://localhost:44393/Employees/Manage?pID=2&pMode=Edit
+    //  https://localhost:44393/Employees/Manage?pID=2&pMode=Delete
+
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        // Get the URI for the current page
+        var uri = navigationManager.ToAbsoluteUri(navigationManager.Uri);
+
+        // Extract the pID QueryString parameter
+        if (uri.ToString().Contains("pID"))
+        {
+            if (QueryHelpers.ParseNullableQuery(uri.Query).TryGetValue("pID", out var token1))
+            {
+                var id = token1.FirstOrDefault() ?? "0";
+                this.pID = id == "0" ? 0 : int.Parse(id);
+            }
+        }
+
+        // Extract the pMode QueryString parameter
+        if (uri.ToString().Contains("pMode"))
+        {
+            if (QueryHelpers.ParseNullableQuery(uri.Query).TryGetValue("pMode", out var token2))
+            {
+                MyApplicationEditModes mode;
+                if (Enum.TryParse(token2.FirstOrDefault(), out mode))
+                {
+                    pMode = mode;
+                }
+                else
+                {
+                    pMode = MyApplicationEditModes.Unknown;
+                    _logger.LogWarning("unknown edit mode");
+                }
+            }
+        }
+
+        if ((pMode == MyApplicationEditModes.Edit || pMode == MyApplicationEditModes.Delete) && pID != 0)
+        {
+            var uriApi = $"https://localhost:44393/api/Employees/{pID}";
+
+            this.employeeViewModel = await JsonSerializer.DeserializeAsync<EmployeeViewModel>(
+                await this.httpClient.GetStreamAsync(uriApi),
+                new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                });
+        }
+
+        if (pMode == MyApplicationEditModes.Delete)
+        {
+            this.isDisabled = true;
+        }
+
+        await base.OnInitializedAsync();
+    }
+
+
+    private void onCancel_Handler()
+    {
+        navigationManager.NavigateTo("/Employees/List");
+    }
+
+    private async Task onValidSubmit_Handler()
+    {
+        string uriApi;
+        StringContent jsonEmployee;
+        HttpResponseMessage response;
+
+        switch (pMode)
+        {
+            case MyApplicationEditModes.Add:
+                uriApi = $"https://localhost:44393/api/employees/";
+                jsonEmployee
+                    = new StringContent(JsonSerializer.Serialize(this.employeeViewModel), Encoding.UTF8, "application/json");
+                response = await httpClient.PostAsync(uriApi, jsonEmployee);
+                if (response.IsSuccessStatusCode)
+                {
+                    navigationManager.NavigateTo("/Employees/List");
+                }
+                break;
+            case MyApplicationEditModes.Edit:
+                uriApi = $"https://localhost:44393/api/employees/{pID}";
+                jsonEmployee
+                    = new StringContent(JsonSerializer.Serialize(this.employeeViewModel), Encoding.UTF8, "application/json");
+                response = await httpClient.PutAsync(uriApi, jsonEmployee);
+                if (response.StatusCode == HttpStatusCode.NoContent)     // HTTP StatusCode 204 == Success Code
+                {
+                    navigationManager.NavigateTo("/Employees/List");
+                }
+                else if (response.StatusCode == HttpStatusCode.NotFound)  // HTTP StatusCode = 404 == Not Found
+                {
+                    _logger.LogError($"Update failed: {response.ReasonPhrase}");
+                }
+                break;
+            case MyApplicationEditModes.Delete:
+                uriApi = $"https://localhost:44393/api/employees/{pID}";
+                response = await httpClient.DeleteAsync(uriApi);
+                navigationManager.NavigateTo("/Employees/List");
+                break;
+            case MyApplicationEditModes.Print:
+            case MyApplicationEditModes.View:
+            case MyApplicationEditModes.Unknown:
+            default:
+                break;
+        }
+    }
+
+}

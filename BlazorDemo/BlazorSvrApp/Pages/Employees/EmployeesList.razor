@@ -1,0 +1,77 @@
+﻿@* Define route directive *@
+@page "/Employees/List"
+
+@using BlazorSvrApp.ViewModels;
+@using System.Text.Json;
+
+<h3>List of Employees</h3>
+
+@if (employees == null)
+{
+    <p>Loading Data... Please Wait...</p>
+}
+
+@*  *@
+
+else
+{
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Date of Birth</th>
+            <th>Salary</th>
+            <th>Is Enabled</th>
+            <th>
+                <a class="btn-primary btn-sm"
+                   href="/Employees/Manage?pMode=@MyApplicationEditModes.Add">
+                    Add
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in employees)
+        {
+            <tr>
+                <td>@item.EmployeeID</td>
+                <td>@item.EmployeeName</td>
+                <td>@item.DateOfBirth.ToString("dd-MMM-yyyy")</td>
+                <td>@item.Salary.ToString("C")</td>
+                <td>@item.IsEnabled</td>
+                <td>
+                    <a class="btn btn-primary btn-sm"
+                       href="/Employees/Manage?pID=@item.EmployeeID&pMode=@MyApplicationEditModes.Edit">
+                        Edit
+                    </a>
+                    <a class="btn btn-primary btn-sm"
+                       href="/Employees/Manage?pID=@item.EmployeeID&pMode=@MyApplicationEditModes.Delete">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+}
+
+@code
+{
+    private HttpClient httpClient = new HttpClient();
+    private IEnumerable<EmployeeViewModel> employees;
+
+    protected override async Task OnInitializedAsync()
+    {
+        string apiUrl = "https://localhost:44393/api/Employees";
+
+        employees = await JsonSerializer.DeserializeAsync<IEnumerable<EmployeeViewModel>>(
+            await httpClient.GetStreamAsync(apiUrl),
+            new JsonSerializerOptions()
+            {
+                PropertyNameCaseInsensitive = true
+            });
+
+        await base.OnInitializedAsync();
+    }
+}
